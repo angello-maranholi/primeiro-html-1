@@ -1,7 +1,3 @@
 {
-  "build": {
-    "env": {
-      "NODE_VERSION": "24.x"
-    }
-  }
+  "framework": null
 }
